@@ -108,16 +108,16 @@ IRC §1045 allows investors to **defer** gain on QSBS by rolling proceeds into r
 | **S1** | Sell at lock-up (March 2026) | $100,006 | 1.00x | **Low** (certain price) | None (no §1202) |
 | **S2 (Positive Ph3)** | Hold through Phase 3 positive | $416,700 | 4.17x | **Medium** (Phase 3 binary) | $75,375 (§1202) |
 | **S3 (Negative Ph3)** | Hold through Phase 3 negative | $27,501 | 0.28x | **Medium** (Phase 3 binary) | N/A (loss) |
-| **S5 (§1045 → Eve+ Ph2)** | Rollover to Evecxia, positive Ph2 | $3,845,020 | **38.5x** | **High** (double binary: LBRX flat + Evecxia Ph2) | $915,153 (§1045 + §1202 chain) |
-| **S6 (§1045 → Eve- Ph2)** | Rollover to Evecxia, negative Ph2 | $307,200 | 3.07x | **High** (double binary) | Still better than S1 |
+| **S5 (§1045 → Eve+ Ph2)** | Rollover to Evecxia, positive Ph2 | $3,845,020 | **38.5x** | **High** (Evecxia Ph2 binary + execution risk) | $915,153 (§1045 + §1202 chain) |
+| **S6 (§1045 → Eve- Ph2)** | Rollover to Evecxia, negative Ph2 | $307,200 | 3.07x | **High** (Evecxia Ph2 binary) | Still better than S1 |
 
 **Key Insights**:
 - **S1 (lock-up sale)**: Safe 1.0x MOIC, but no upside
 - **S2 (Phase 3 positive)**: 4.17x MOIC with $0 tax, but 19-month wait + binary risk
-- **S5 (§1045 → Evecxia positive)**: **Massive 38.5x upside** if both LBRX and Evecxia succeed, but **double binary risk**
-- **Even S6 (Evecxia fails)**: 3.07x MOIC still better than lock-up due to LBRX being roughly flat + §1202 on Evecxia's partial value
+- **S5 (§1045 → Evecxia positive)**: **Massive 38.5x upside** — LBRX leg is sold roughly flat at lock-up (not a binary), all upside comes from **one binary**: Evecxia Phase 2 OCD readout
+- **Even S6 (Evecxia fails)**: 3.07x MOIC still better than lock-up due to LBRX being roughly flat + §1202 on Evecxia's residual value
 
-**Strategic Takeaway**: The §1045 → §1202 chain offers asymmetric upside (38.5x vs. 4.17x) but requires conviction in Evecxia's Phase 2 OCD thesis.
+**Strategic Takeaway**: The §1045 → §1202 chain offers asymmetric upside (38.5x vs. 4.17x). The investor is choosing **which** binary to take — LBRX Phase 3 (S2/S3) or Evecxia Phase 2 (S5/S6) — not stacking two binaries. S5 requires conviction in Evecxia's OCD thesis plus execution of the §1045 rollover within 60 days of lock-up.
 
 ---
 
