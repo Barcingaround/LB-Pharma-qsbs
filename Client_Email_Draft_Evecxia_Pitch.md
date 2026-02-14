@@ -4,13 +4,13 @@
 
 ---
 
-**SUBJECT: LB Pharma — Lock-Up Strategy & Qualified Reinvestment Opportunity**
+**SUBJECT: LB Pharma — Lock-Up Expiry Options & §1045 Analysis**
 
 ---
 
 [Client First Name],
 
-Your LB Pharma Series B lock-up expires **March 12, 2026**. I want to walk you through a strategy worth considering before that date arrives.
+Your LB Pharma Series B lock-up expires **March 12, 2026**. With that date approaching, I want to walk you through your options.
 
 **Where you stand today:**
 
@@ -19,9 +19,9 @@ Your LB Pharma Series B lock-up expires **March 12, 2026**. I want to walk you t
 - Your position has been locked for nearly four years with no realized return
 - LBRX's next major catalyst — Phase 3 topline data in MDD — is not expected until **Q4 2027**, roughly 18 months after your lock-up lifts
 
-**The structural problem with holding:**
+**If you hold through Phase 3:**
 
-If you continue to hold through Phase 3, you're exposed to a single late-stage binary on a $24 cost basis with limited upside compression — the market has already priced in significant Phase 3 probability at current levels. In a negative readout scenario, shares could trade to mid-single digits. In a positive scenario, analyst targets range from $50–$165, representing 2–7x from here — meaningful, but not asymmetric relative to the risk assumed.
+Your next liquidity event is the Phase 3 MDD topline readout, expected Q4 2027 — roughly 18 months after lock-up lifts. In a positive readout scenario, analyst targets range from $50–$165, representing 2–7x from current levels. In a negative readout, shares could trade to mid-single digits. Both outcomes are possible — MDD Phase 3 trials carry meaningful clinical risk.
 
 **What I'd like you to consider:**
 
@@ -31,13 +31,13 @@ Because your LBRX shares are **Qualified Small Business Stock (QSBS)**, a sale a
 
 1. **No tax at the point of sale** — your LBRX gain is deferred, not recognized
 2. **Your QSBS clock keeps running** — by Evecxia's Phase 2 readout (Oct 2027), you will have exceeded the 5-year §1202 threshold, potentially qualifying for **up to $10M in federal capital gains exclusion**
-3. **You enter Evecxia at $30M** — a pre-clinical-stage entry point, versus LBRX where you entered at a late-stage valuation
+3. **You enter Evecxia at a $30M post-money valuation** — an early-stage entry point, with the corresponding early-stage risk profile
 
-**The asymmetry:**
+**Comparable transactions:**
 
-Comparable CNS companies with positive Phase 2 data have seen significant valuation inflections. Axsome Therapeutics IPO'd at ~$155M and re-rated to $3.8B following positive efficacy data. Karuna Therapeutics moved from a $414M IPO valuation to over $2B on a single Phase 2 readout and was ultimately acquired for $14B. These are illustrative comparisons, not predictions — every program carries unique risk.
+For context, other CNS companies have seen valuation changes around Phase 2 data. Axsome Therapeutics IPO'd at ~$155M and re-rated to $3.8B following positive efficacy data. Karuna Therapeutics moved from a $414M IPO valuation to over $2B on a single Phase 2 readout. Conversely, Minerva Neurosciences declined ~81% following a Phase 3 failure, and Sage Therapeutics declined ~60% on a negative readout. These are illustrative — not predictions. Every program carries unique clinical risk.
 
-At Evecxia's $30M Series A entry, a re-rating to even $800M on positive data would represent a **~26x gross return** on your reinvested capital. At $1.5B, approximately **~38x**. These outcomes are not guaranteed and depend entirely on clinical success.
+At Evecxia's $30M Series A entry, a positive Phase 2 readout with an $800M re-rating would represent ~26x gross on reinvested capital. At $1.5B, approximately ~38x. A negative readout with a $50M valuation floor would represent a ~67% loss on reinvested capital. These outcomes depend entirely on clinical results.
 
 **The risks — and they are real:**
 
@@ -48,13 +48,11 @@ At Evecxia's $30M Series A entry, a re-rating to even $800M on positive data wou
 - **§1045/§1202 qualification.** Tax treatment depends on facts and circumstances. I am not a tax advisor. You should consult your CPA or tax counsel before executing any rollover strategy. Failure to meet technical requirements could result in full taxation of gains
 - **Dilution.** Your ownership percentage will decrease through subsequent financing rounds and IPO. The returns quoted above assume estimated dilution to ~365M shares outstanding at readout
 
-**What I'm recommending:**
+**Next steps:**
 
-That we schedule a 30-minute call to review this in detail. If after that conversation you believe the risk/reward profile is appropriate given your financial situation and objectives, I can coordinate the LBRX sale at lock-up expiry and the Evecxia allocation within the §1045 60-day reinvestment window.
+I'd like to schedule a 30-minute call to walk through the analysis in detail — including both the upside scenarios and the downside risks. If after that conversation you believe the risk/reward profile is appropriate given your financial situation and objectives, I can coordinate timing around the lock-up expiry and the §1045 60-day reinvestment window.
 
-I am presenting this as an idea consistent with your stated aggressive-growth risk tolerance and interest in biotech catalysts. This is not suitable for capital you cannot afford to lose.
-
-**Next step:** Let me know if [date/time] works for a call.
+I am presenting this as one option for your consideration. This involves early-stage biotech risk and is not suitable for capital you cannot afford to lose. Let me know if [date/time] works for a call.
 
 Best,
 
